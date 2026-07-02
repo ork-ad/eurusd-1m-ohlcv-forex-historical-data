@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `EURUSD_1m.csv` (184,213 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **7,251,082** `1m` rows (~385.18 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2006-09-03` → `2026-06-26`.
+> **Sample on GitHub** · `EURUSD_1m.csv` (184,213 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **7,251,082** `1m` rows (~412.84 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2006-09-03` → `2026-06-26`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/eurusd-1m-ohlcv-forex-his
 | Instrument | Euro / US Dollar · Forex | Euro / US Dollar · Forex |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 184,213 | **7,251,082** |
-| Size | 9.98 MB | ~385.18 MB |
+| Size | 9.98 MB | ~412.84 MB |
 | Period | `2025-12-26` → `2026-06-26` | `2006-09-03` → `2026-06-26` |
 | File | `EURUSD_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
