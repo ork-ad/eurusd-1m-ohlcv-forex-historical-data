@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `EURUSD_1m.csv` (184,213 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **7,251,082** `1m` rows (~412.84 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2006-09-03` → `2026-06-26`.
+> **Sample on GitHub** · `EURUSD_1m.csv` (184,965 rows, `2026-01-04` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **7,251,082** `1m` rows (~412.84 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2006-09-03` → `2026-06-26`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/eurusd-1m-ohlcv-forex-his
 |---|--:|---|
 | Instrument | Euro / US Dollar · Forex | Euro / US Dollar · Forex |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 184,213 | **7,251,082** |
-| Size | 9.98 MB | ~412.84 MB |
-| Period | `2025-12-26` → `2026-06-26` | `2006-09-03` → `2026-06-26` |
+| 1m rows | 184,965 | **7,251,082** |
+| Size | 10.72 MB | ~412.84 MB |
+| Period | `2026-01-04` → `2026-07-02` | `2006-09-03` → `2026-06-26` |
 | File | `EURUSD_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`EURUSD_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-26T20:55:00Z | 1.17745 | 1.1775 | 1.17732 | 1.17732 | 178 |
-| 2025-12-26T20:56:00Z | 1.17732 | 1.17742 | 1.17722 | 1.17739 | 178 |
-| 2025-12-26T20:57:00Z | 1.17739 | 1.17742 | 1.17731 | 1.17732 | 146 |
-| 2025-12-26T20:58:00Z | 1.17732 | 1.17735 | 1.17727 | 1.17727 | 148 |
-| 2025-12-26T20:59:00Z | 1.17727 | 1.1775 | 1.17727 | 1.17748 | 147 |
+| 2026-01-04T22:07:00Z | 1.172062 | 1.172062 | 1.171962 | 1.171972 | 2 |
+| 2026-01-04T22:08:00Z | 1.171972 | 1.171982 | 1.171962 | 1.171982 | 4 |
+| 2026-01-04T22:09:00Z | 1.171982 | 1.171992 | 1.171972 | 1.171982 | 22 |
+| 2026-01-04T22:10:00Z | 1.171982 | 1.171982 | 1.171962 | 1.171972 | 13 |
+| 2026-01-04T22:11:00Z | 1.171972 | 1.171992 | 1.171972 | 1.171982 | 6 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T20:51:00Z | 1.13854 | 1.13854 | 1.13843 | 1.13846 | 84.00 |
-| 2026-06-26T20:52:00Z | 1.13846 | 1.13846 | 1.13828 | 1.13835 | 94.00 |
-| 2026-06-26T20:53:00Z | 1.13835 | 1.13837 | 1.13827 | 1.1383 | 90.00 |
-| 2026-06-26T20:54:00Z | 1.1383 | 1.13833 | 1.13807 | 1.13808 | 126.00 |
+| 2026-07-02T22:16:00Z | 1.14327 | 1.14329 | 1.14326 | 1.14326 | 19.00 |
+| 2026-07-02T22:17:00Z | 1.14326 | 1.14327 | 1.14323 | 1.14324 | 43.00 |
+| 2026-07-02T22:18:00Z | 1.14324 | 1.14325 | 1.14323 | 1.14323 | 29.00 |
+| 2026-07-02T22:19:00Z | 1.14323 | 1.14326 | 1.14323 | 1.14326 | 24.00 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **EURUSD** archive on **[ork.ad](https://ork.ad/)** includes **13 O
 **[→ Get the full EURUSD dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · EURUSD 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · EURUSD 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
